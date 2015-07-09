@@ -9,6 +9,6 @@ public class App {
         Vehicle otherCar = new Vehicle();
 
         myCar.accelerate();
-        otherCar.accelerate();
+        otherCar.startEngine();
     }
 }
